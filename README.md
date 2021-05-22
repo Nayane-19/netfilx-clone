@@ -2,11 +2,12 @@
 
 <p align="center">Clone Netflix com Nextjs  <a href="https://nextjs.org/">🔗 Nextjs</a></p>
 
-<p align="center"><img src="/"/></p>
+<p align="center"><img src="https://media.giphy.com/media/PCqAkmoMcsxbdhbNYQ/giphy.gif"/></p>
 
 ## Dependências
 
 - yarn add @tailwindcss/jit
+- yarn add next-auth
 
 ## Ícones para commits padrão
 
